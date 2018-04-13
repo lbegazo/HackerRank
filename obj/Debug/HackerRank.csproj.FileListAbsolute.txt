@@ -1,0 +1,12 @@
+D:\Luis\Jobs\Amaris\AmarisApp\HackerRank\bin\Debug\HackerRank.exe.config
+D:\Luis\Jobs\Amaris\AmarisApp\HackerRank\bin\Debug\HackerRank.exe
+D:\Luis\Jobs\Amaris\AmarisApp\HackerRank\bin\Debug\HackerRank.pdb
+D:\Luis\Jobs\Amaris\AmarisApp\HackerRank\obj\Debug\HackerRank.exe
+D:\Luis\Jobs\Amaris\AmarisApp\HackerRank\obj\Debug\HackerRank.pdb
+D:\Luis\Jobs\Amaris\AmarisApp\HackerRank\obj\Debug\HackerRank.csprojResolveAssemblyReference.cache
+D:\Luis\Tutorials\HackerRank\HackerRank\bin\Debug\HackerRank.exe
+D:\Luis\Tutorials\HackerRank\HackerRank\bin\Debug\HackerRank.exe.config
+D:\Luis\Tutorials\HackerRank\HackerRank\bin\Debug\HackerRank.pdb
+D:\Luis\Tutorials\HackerRank\HackerRank\obj\Debug\HackerRank.exe
+D:\Luis\Tutorials\HackerRank\HackerRank\obj\Debug\HackerRank.pdb
+D:\Luis\Tutorials\HackerRank\HackerRank\obj\Debug\HackerRank.csprojResolveAssemblyReference.cache
