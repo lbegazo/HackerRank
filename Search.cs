@@ -13,6 +13,8 @@ namespace HackerRank
         public static int pairs(int k, int[] arr)
         {
             Array.Sort(arr);
+
+
             HashSet<int> list = new HashSet<int>(arr);
             int sum = 0, count = 0;
             for (int i = 0; i < arr.Length - 1; i++)
